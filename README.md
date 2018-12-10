@@ -1,1 +1,2 @@
-# Solving_ODE_doublePendulum
+# project1_team163
+Samarbeid mellom Magnus og Vladimir
